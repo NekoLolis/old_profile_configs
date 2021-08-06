@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GodlyDuck/GodlyDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
+
+import stupidDuck
+import threading
+
+def dumb():
+	print("Welcome To My Github")
+
+for i in range(50):
+	thread = threading.Thread(target=dumb, daemon=True)
+	thread.start()
+	time.sleep(0.3)
+
+print("<3")
