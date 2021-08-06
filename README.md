@@ -21,9 +21,9 @@ def dumb():
     print("Welcome To My Github")
 
 for i in range(50):
-	thread = threading.Thread(target=dumb, daemon=True)
-	thread.start()
-	time.sleep(0.3)
+    thread = threading.Thread(target=dumb, daemon=True)
+    thread.start()
+    time.sleep(0.3)
 
 print("<3")
 ```
