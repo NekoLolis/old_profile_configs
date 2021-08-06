@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Hi there 👋
 -->
-
+```python
 import stupidDuck
 import threading
 
@@ -25,4 +25,4 @@ for i in range(50):
 	thread.start()
 	time.sleep(0.3)
 
-print("<3")
+print("<3")```
