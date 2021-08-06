@@ -18,7 +18,7 @@ import stupidDuck
 import threading
 
 def dumb():
-	print("Welcome To My Github")
+    print("Welcome To My Github")
 
 for i in range(50):
 	thread = threading.Thread(target=dumb, daemon=True)
