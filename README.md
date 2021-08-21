@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 ```python
-import stupidDuck
+import time
 import threading
 
 def dumb():
