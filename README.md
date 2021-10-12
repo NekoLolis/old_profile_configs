@@ -13,17 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Hi there 👋
 -->
-```python
-import time
-import threading
-
-def dumb():
-    print("Welcome To My Github")
-
-for i in range(50):
-    thread = threading.Thread(target=dumb, daemon=True)
-    thread.start()
-    time.sleep(0.3)
-
-print("<3")
+```java
+public class Main {  
+  public static void main(String[] args){
+    // Welcome to my GitHub
+  }
+}
 ```
+Hi, my name is Duckie, I am a Python Developer currently learning Java with only **2 Years of Experience** who specializes in Backend Development. I've spent most of my development career creating new software to launch and protect against (D)DoS attacks.
+
+#
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=godlyduck&show_icons=true&hide_border=true" />
