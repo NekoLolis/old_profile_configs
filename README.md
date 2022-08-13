@@ -23,4 +23,4 @@ public class Main {
 Hi, my name is Duckie, I am a Python Developer currently learning Java with only **2 Years of Experience** who specializes in Backend Development. I've spent most of my development career creating new software to launch and protect against (D)DoS attacks.
 
 #
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=godlyduck&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=nekololis&show_icons=true&hide_border=true" />
