@@ -8,7 +8,7 @@
 - 💬 Ask me about: **ducks.**
 - 📫 How to reach me: **Find me on Discord > Duckie#7238**.
 - 🎮 Check out my **[Roblox Games](https://www.roblox.com/users/239517214/profile)**.
-- ✨ I am currently working on **[Switch]([https://brawl.top](https://www.roblox.com/games/10676188540/Switch))**.
+- ✨ I am currently working on **[Switch](https://www.roblox.com/games/10676188540/Switch)**.
 - ⚡ Fun fact: **I like Ducks.**
 
 <h3 align="left">Languages and Tools:</h3>
